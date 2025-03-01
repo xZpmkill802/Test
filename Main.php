@@ -3,5 +3,5 @@ local check = "https://raw.githubusercontent.com/xZpmkill802/Test/refs/heads/mai
 if game:HttpGet(check) == "Whitelisted" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xZpmkill802/Test/refs/heads/main/xVbm-Hub-Blue-lock%3A-Rivals.lua"))()
 else
-game.Players.LocalPlayer:Kick("Key ไม่ถูพ่อมึงอะ ส่ให้ถูไปซื้อkeyไป")
+game.Players.LocalPlayer:Kick("Key ไม่ถูก มึงโดนแบนจากแมพนี้!")
 end
